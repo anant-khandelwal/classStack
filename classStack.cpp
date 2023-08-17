@@ -34,7 +34,7 @@ class Stack
 
     void pop()
     {
-        //check if there;'s element or not
+        //check if there's element or not
         if (top >= 0)
         {
             top --;
